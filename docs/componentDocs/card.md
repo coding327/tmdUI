@@ -2,7 +2,7 @@
 卡片组件
 
 ### 示例
-<card imgSrc="/java.png" summary="剑指Java面试-Offer直通车 百度资深面试官授课"></card>
+<card imgSrc="tmdUI/java.png" summary="剑指Java面试-Offer直通车 百度资深面试官授课"></card>
 
 ### 代码
 ```html
