@@ -9,7 +9,7 @@
 <card imgSrc="/java.png" summary="剑指Java面试-Offer直通车 百度资深面试官授课"></card>
 ```
 
-### Attributes
+## Attributes
 | 参数 | 说明 | 类型 | 是否必要 | 默认值 |
 | --- | --- | --- |   ---   |  ---  |
 | width | 卡片的宽度 | Number | false | - |
