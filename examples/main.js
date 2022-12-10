@@ -3,9 +3,9 @@ import App from './App.vue'
 
 // 开发组件时测试
 // 完整引入
-// import TMDUI from '../components/lib/index'
-// import '../components/css/index.scss'
-// Vue.use(TMDUI)
+import TMDUI from '../components/lib/index'
+import '../components/css/index.scss'
+Vue.use(TMDUI)
 
 // 按需引入
 // import { Demo } from '../components/lib/index'
